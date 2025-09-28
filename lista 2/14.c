@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-    int x,y,tem,i,quant;
+    int x,y,tem,i,quant=0;
     puts("qual o intervalo");
     scanf("%d %d",&x,&y);
     if (y<x){

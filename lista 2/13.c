@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    int i,x,y,temp,som;
+    int i,x,y,temp,som=0;
     puts("digite o intervalo");
     scanf("%d %d",&x,&y);
     if (y<x)
